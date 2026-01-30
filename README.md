@@ -5,6 +5,10 @@
   <em>Building modern web applications and exploring game development.</em>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Udit-Tripathi&label=Profile%20Views&color=0e75b6&style=flat" alt="udit-tripathi" />
+</p>
+
 <div align="center">
 
 - 🔭 I’m currently working on **Full-stack Web Applications (Next.js)** & **2D-RPG Games**
@@ -48,7 +52,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udit-tripathi&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udit-Tripathi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=udit-tripathi&show_icons=true&locale=en&theme=gotham" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Udit-Tripathi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Udit-Tripathi&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
