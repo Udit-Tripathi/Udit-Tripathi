@@ -42,18 +42,18 @@
 
 <br />
 
-### 📊 GitHub Stats
+### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udit-Tripathi&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" alt="Top Languages" />
-  
-  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Udit-Tripathi&theme=flat&no-frame=true&column=6&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Udit-Tripathi&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Udit's GitHub Stats" />
+<br />
 
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udit-Tripathi&theme=vision-friendly-dark&hide_border=true" alt="Streak" />
+### 😄 Daily Dose of Logic
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Dev Joke" />
 </div>
 
 <br />
