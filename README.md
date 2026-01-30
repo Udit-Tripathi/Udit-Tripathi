@@ -1,62 +1,63 @@
-<h1 align="center">Hi 👋, I'm Udit Tripathi</h1>
-<h3 align="center">Full-Stack Developer | Software Engineering Intern</h3>
-
-<p align="center">
-  <em>Building modern web applications and exploring game development.</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Udit-Tripathi&label=Profile%20Views&color=0e75b6&style=flat" alt="udit-tripathi" />
-</p>
-
 <div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Udit+Tripathi;Full-Stack+Developer;Game+Dev+Enthusiast" alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on **Full-stack Web Applications (Next.js)** & **2D-RPG Games**
-- 🌱 I’m currently learning **Advanced TypeScript & C#**
-- ⚡ Fun fact: I enjoy solving complex logic puzzles and optimizing code performance.
-- 📫 How to reach me: **udittripathi70@gmail.com**
+  <p align="center">
+     Creating scalable web applications & immersive 2D RPG experiences.
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/udit-tripathi-88342120a/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:udittripathi70@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 
 </div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/udit-tripathi-88342120a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udit tripathi" height="30" width="40" /></a>
-</p>
+<br />
 
-<hr/>
+### 👨‍💻 About Me
 
-<h3 align="center">🛠 Languages and Tools</h3>
-<p align="center">
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-</p>
+- 🔭 I’m currently working on **Full-stack Web Apps (Next.js)** & **RPG Game Mechanics**
+- 🌱 I’m currently learning **Advanced TypeScript, C# & Software Architecture**
+- ⚡ **Fun fact:** I love optimizing code performance and solving logic puzzles.
+- 📍 **Location:** Lucknow, Uttar Pradesh, India
 
-<p align="center">
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-</p>
+<br />
 
-<p align="center">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
-
-<br/>
+### 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udit-Tripathi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Udit-Tripathi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Udit-Tripathi&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+| **Frontend** | **Backend & Core** | **Tools & DevOps** |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <br/> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
+
+</div>
+
+<br />
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udit-Tripathi&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Udit-Tripathi&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Udit's GitHub Stats" />
+
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udit-Tripathi&theme=vision-friendly-dark&hide_border=true" alt="Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Udit-Tripathi&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
